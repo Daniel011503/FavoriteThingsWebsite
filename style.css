@@ -3,7 +3,7 @@
 }
 
 h1 {
-	color: black;
+	color: #42d4f4;
 }
 
 h2 {
@@ -11,5 +11,9 @@ h2 {
 }
 
 body {
-	background-image: url("https://static.makeuseof.com/wp-content/uploads/2017/10/whats-league-legends-670x335.jpg");
+	background-image: url(https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-League-of-legends-desktop-wallpaper-hd-PIC-WPE006391.jpg);
+}
+
+img {
+	Height:80%; Width:80%;
 }
